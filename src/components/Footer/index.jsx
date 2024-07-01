@@ -165,7 +165,7 @@ export default function Footer() {
           </div>
           <div className="text-center lg:col-span-3 md:flex justify-between items-center">
             <div className="flex items-center justify-center gap-4 mb-4 order-2">
-              <a href="https://www.instagram.com/bethup97/?next=%2F" target="_blank">
+              <a href="" target="_blank">
                 <img
                   className="footer-icon"
                   src="/instagram.svg"
@@ -175,7 +175,7 @@ export default function Footer() {
               <a href="https://github.com/nicholavila" target="_blank">
                 <img className="footer-icon" src="/github.svg" alt="github" />
               </a>
-              <a href="https://t.me/bethup97" target="_blank">
+              <a href="" target="_blank">
                 <img
                   className="footer-icon"
                   src="/telegram.svg"
