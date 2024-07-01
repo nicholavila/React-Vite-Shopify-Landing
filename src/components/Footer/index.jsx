@@ -172,7 +172,7 @@ export default function Footer() {
                   alt="instagram"
                 />
               </a>
-              <a href="https://github.com/berthutapea" target="_blank">
+              <a href="https://github.com/nicholavila" target="_blank">
                 <img className="footer-icon" src="/github.svg" alt="github" />
               </a>
               <a href="https://t.me/bethup97" target="_blank">
@@ -182,7 +182,7 @@ export default function Footer() {
                   alt="telegram"
                 />
               </a>
-              <a href="https://www.linkedin.com/in/gilberthutapea/" target="_blank">
+              <a href="" target="_blank">
                 <img
                   className="footer-icon"
                   src="/linkedin.svg"
@@ -194,10 +194,10 @@ export default function Footer() {
               © 2022 Shopify by{" "}
               <a
                 className="italic underline"
-                href="https://berthutapea.vercel.app/"
+                href=""
                 target="_blank"
               >
-                Gilbert Hutapea
+                Nicholas Avila
               </a>
             </p>
           </div>
